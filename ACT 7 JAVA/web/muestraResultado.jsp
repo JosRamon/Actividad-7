@@ -5,12 +5,12 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<%@page import="models.Triangulo" %>  
+<%@page import="model.Triangulo" %>  
 <!DOCTYPE html>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Servlets</title>
+        <title>Actividad 7</title>
     </head>
     <body bgcolor="greenyellow">
          <%
